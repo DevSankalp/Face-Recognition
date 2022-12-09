@@ -2,9 +2,6 @@
 <hr/>
 <h4 align="center"> :camera: A facial recognition based login system using Python,HTML,CSS and Bootstrap 
 </h4>
-<h2>Preview</h2>
-<img src="Preview/p1.png">
-<img src="Preview/p2.png">
 <hr/>
 <h2> Tools & Libraries Used </h2>
 <hr/>
