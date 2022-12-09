@@ -24,7 +24,7 @@
 - Install XAMPP
 - Navigate to `htdocs` folder and clone this project.
 - Open `login.py` and make sure to replace the top comment `#! C:\Python39\python.exe` with your python path.
-- Navigate to `htdocs/face-recognition-login-system` and execute the following command `pip install -r requirements.txt`
+- Navigate to `htdocs/Face-Recognition` and execute the following command `pip install -r requirements.txt`
 - Navigate to `xampp/apache/config` and modify the `httpd.conf` file by adding
 
 ```conf
@@ -33,7 +33,7 @@ AddHandler cgi-script .py .cgi .pl .asp
 ```
 
 at the end of the file. Then save & exit
-- Then run XAMPP & go to `localhost/login/index.html`
+- Then run XAMPP & go to `localhost/Face-Recognition/index.html`
  <img src='Preview/n2.png'><br>
 <hr/>
 
