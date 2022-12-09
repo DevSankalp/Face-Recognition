@@ -7,11 +7,11 @@
 <hr/>
 <ul>
   <b>
-<li> Python - face_recognition - https://github.com/ageitgey/face_recognition </li>
+<li> Python - https://www.python.org/ </li>  
 <li> XAMPP - https://www.apachefriends.org/download.html </li>
-<li> Bootstrap - https://getbootstrap.com/ </li>
+<li> Tailwind CSS - https://tailwindcss.com/ </li>
+<li> Daisy UI - https://daisyui.com/ </li>    
 <li> CGI </li>
-    
     
   </b>
 </ul>
